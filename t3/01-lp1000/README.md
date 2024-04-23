@@ -157,23 +157,23 @@
 
 (Continuing to work on `C - ls` this week)
 
-### Monday
+#### Monday
 - `C - ls`
     - Complete `Task 0`
 
-### Tuesday
+#### Tuesday
 - `C - ls`
     - Complete `Task 1`
 
-### Wednesday
+#### Wednesday
 - `C - ls`
     - Complete `Task 2`
 
-### Thursday
+#### Thursday
 - `C - ls`
     - Complete `Task 3`
 
-### Friday
+#### Friday
 - `C - ls`
     - Complete `Task 4`
 
@@ -201,20 +201,20 @@
     </tbody>
 </table>
 
-### Monday
+#### Monday
 - `C - ls`
     - Begin `Task 5` (last required task)
 
-### Tuesday
+#### Tuesday
 - `C - ls`
     - Continue `Task 5` (last required task)
 
-### Wednesday
+#### Wednesday
 - `C - ls`
     - Complete `Task 5` (last required task)
 - Project due at 11:59PM!
 
-### Thursday
+#### Thursday
 - _Course closes at 11:59PM!_
 - _PLD, 9:00AM-3:00PM_
     - Look ahead at `C - Shell v2` (next course, opens Friday)
