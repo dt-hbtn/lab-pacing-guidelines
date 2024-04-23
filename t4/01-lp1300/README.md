@@ -69,7 +69,7 @@
 
 ---
 
-### Week 2
+### Week 2 (May 6 - May 10)
 <table>
     <tbody>
         <tr>
