@@ -1,4 +1,4 @@
-# LP1300: Low-Level Programming Applications
+# LP1300: Low-Level Programming Applications (Summer 2024)
 ## Projects in this course
 - `C - Strace` (10 days)
 - `Multithreading` (10 days)
@@ -6,9 +6,10 @@
 `C - Strace` and `Multithreading` are assigned concurrently!
 
 ## Project Pacing Guide
+
 ---
 
-### Week 1
+### Week 1 (April 29 - May 3)
 
 <table>
     <tbody>

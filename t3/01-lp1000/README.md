@@ -1,4 +1,4 @@
-# LP1000: Foundations of Low-Level Programming
+# LP1000: Foundations of Low-Level Programming (Summer 2024)
 ## Projects in this course
 - `C - Makefiles` (10 days)
 - `C - Static variables, getline` (10 days)
@@ -11,7 +11,7 @@
 
 ---
 
-### Week 1
+### Week 1 (April 29 - May 3)
 
 <table>
     <tbody>
@@ -78,7 +78,7 @@
 
 ---
 
-### Week 2
+### Week 2 (May 6 - May 10)
 <table>
     <tbody>
         <tr>
@@ -133,7 +133,7 @@
     - Begin `Task 0` (i.e., `ls` with no options)
 ---
 
-### Week 3
+### Week 3 (May 13 - May 17)
 <table>
     <tbody>
         <tr>
@@ -179,7 +179,7 @@
 
 ---
 
-### Week 4
+### Week 4 (May 20 - May 24)
 <table>
     <tbody>
         <tr>
