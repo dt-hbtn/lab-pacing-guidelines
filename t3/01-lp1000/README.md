@@ -220,5 +220,3 @@
     - Look ahead at `C - Shell v2` (next course, opens Friday)
         - Pick partners
         - Piping and redirection examples
-
----

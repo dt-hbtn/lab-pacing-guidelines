@@ -3,8 +3,7 @@
 - `C - Strace` (10 days)
 - `Multithreading` (10 days)
 
-__Notes:__
-- `C - Strace` and `Multithreading` are assigned concurrently!
+`C - Strace` and `Multithreading` are assigned concurrently!
 
 ## Project Pacing Guide
 ---
