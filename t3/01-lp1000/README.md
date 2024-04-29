@@ -1,11 +1,42 @@
 # LP1000: Foundations of Low-Level Programming (Summer 2024)
-## Projects in this course
-- `C - Makefiles` (10 days)
+## Course Overview
+__From the catalog...__
+"In this course, students are introduced to the foundational pieces of low-level programming beginning with program compilation with a Makefile, management of user inputs and files."
+
+__What it means...__
+In this course, we will be working with features of the C programming language that you may not have explored in Trimester 1, reverse engineering the `ls` command and building our own from scratch in C, and learning how to write `Makefile`s that automate the compilation of C applications and/or libraries.
+
+## Project Overview
+- `C - Makefiles`
+    - Opens _Monday, April 29_
+    - Due _Wednesday, May 8 @ 11:59PM_ (open 10 calendar days)
+    - In this project...
+        - Instead of writing C application code, you will clone a `git` containing some C code and write a `Makefile` that automates the code's compilation (simply via `make <target>` command...rather than manually invoking cumbersome `gcc` commands).
+        - In addition to gaining some familiarity with an ubiquitous build tool for Unix-based systems, we will also enhance our understanding of the compilation process for languages that compile down to native machine instructions (i.e., source code, assemblies, object code, static/shared libraries, and executable files)
+        - In several future projects in the LAB curriculum, you will include a `Makefile` in the root of your project directory and the checker will use that to build your code.
 - `C - Static variables, getline` (10 days)
-- `C - ls` (13 days)
+    - Opens _Monday, April 29_
+    - Due _Wednesday, May 8 @ 11:59PM_ (open 10 calendar days)
+    - In this project...
+        - You will learn how to use function-scope `static` variables in C (i.e., local variables whose state persists after a function returns, but are only accessible within the function in which they are declared).
+        - You will implement a function similar to the `getline` function from the POSIX standard (`man 3 getline`), but you will be working with a file descriptor directly, handling file buffering yourself, and primarily using system calls. (Hint: these tasks will require function-scope `static` variables to implement them).
+- `C - ls`
+    - Opens _Friday, May 10_
+    - Due _Wednesday, May 22 @ 11:59PM_(open 13 days)
+    - In this project...
+        - You will build your own `ls` from scratch (but not implementing every single option available)
+        - This will give you some experience traversing a Linux file system and retrieving file metadata along the way
+        - This will also give you some opportunities to get creative in your implementation of the output formatting (perhaps you will pick up some new `printf` formatting tricks)
 
-`C - Makefiles` and `C - Static variables, getline` are assigned concurrently!
+Note: `C - Makefiles` and `C - Static variables, getline` are assigned concurrently!
 
+## Peer Learning Days (PLDs)
+
+This course has 3 required PLDs (and 1 optional PLD)
+- Thursday, May 2 (optional PLD)
+- Thursday, May 9
+- Thursday, May 16
+- Thursday, May 23
 
 ## Project Pacing Guide
 
