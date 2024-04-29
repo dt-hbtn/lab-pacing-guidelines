@@ -22,7 +22,7 @@ In this course, we will be working with features of the C programming language t
         - You will implement a function similar to the `getline` function from the POSIX standard (`man 3 getline`), but you will be working with a file descriptor directly, handling file buffering yourself, and primarily using system calls. (Hint: these tasks will require function-scope `static` variables to implement them).
 - `C - ls`
     - Opens _Friday, May 10_
-    - Due _Wednesday, May 22 @ 11:59PM_(open 13 days)
+    - Due _Wednesday, May 22 @ 11:59PM_ (open 13 calendar days)
     - In this project...
         - You will build your own `ls` from scratch (but not implementing every single option available)
         - This will give you some experience traversing a Linux file system and retrieving file metadata along the way
