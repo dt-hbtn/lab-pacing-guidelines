@@ -14,7 +14,7 @@ In this course, we will be working with features of the C programming language t
         - Instead of writing C application code, you will clone a `git` containing some C code and write a `Makefile` that automates the code's compilation (simply via `make <target>` command...rather than manually invoking cumbersome `gcc` commands).
         - In addition to gaining some familiarity with an ubiquitous build tool for Unix-based systems, we will also enhance our understanding of the compilation process for languages that compile down to native machine instructions (i.e., source code, assemblies, object code, static/shared libraries, and executable files)
         - In several future projects in the LAB curriculum, you will include a `Makefile` in the root of your project directory and the checker will use that to build your code.
-- `C - Static variables, getline` (10 days)
+- `C - Static variables, getline`
     - Opens _Monday, April 29_
     - Due _Wednesday, May 8 @ 11:59PM_ (open 10 calendar days)
     - In this project...
