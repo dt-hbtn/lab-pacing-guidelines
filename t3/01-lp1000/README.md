@@ -1,4 +1,4 @@
-# LP1000: Foundations of Low-Level Programming (Summer 2024)
+# LP1000: Foundations of Low-Level Programming (Fall 2024)
 ## Course Overview
 __From the catalog...__
 "In this course, students are introduced to the foundational pieces of low-level programming beginning with program compilation with a Makefile, management of user inputs and files."
@@ -8,21 +8,21 @@ In this course, we will be working with features of the C programming language t
 
 ## Project Overview
 - `C - Makefiles`
-    - Opens _Monday, April 29_
-    - Due _Wednesday, May 8 @ 11:59PM_ (open 10 calendar days)
+    - Opens _Monday, August 26_
+    - Due _Wednesday, September 4 @ 11:59PM_ (open 10 calendar days)
     - In this project...
         - Instead of writing C application code, you will clone a `git` containing some C code and write a `Makefile` that automates the code's compilation (simply via `make <target>` command...rather than manually invoking cumbersome `gcc` commands).
         - In addition to gaining some familiarity with an ubiquitous build tool for Unix-based systems, we will also enhance our understanding of the compilation process for languages that compile down to native machine instructions (i.e., source code, assemblies, object code, static/shared libraries, and executable files)
         - In several future projects in the LAB curriculum, you will include a `Makefile` in the root of your project directory and the checker will use that to build your code.
 - `C - Static variables, getline`
-    - Opens _Monday, April 29_
-    - Due _Wednesday, May 8 @ 11:59PM_ (open 10 calendar days)
+    - Opens _Monday, August 26_
+    - Due _Wednesday, September 4 @ 11:59PM_ (open 10 calendar days)
     - In this project...
         - You will learn how to use function-scope `static` variables in C (i.e., local variables whose state persists after a function returns, but are only accessible within the function in which they are declared).
         - You will implement a function similar to the `getline` function from the POSIX standard (`man 3 getline`), but you will be working with a file descriptor directly, handling file buffering yourself, and primarily using system calls. (Hint: these tasks will require function-scope `static` variables to implement them).
 - `C - ls`
-    - Opens _Friday, May 10_
-    - Due _Wednesday, May 22 @ 11:59PM_ (open 13 calendar days)
+    - Opens _Friday, September 6_
+    - Due _Wednesday, September 18 @ 11:59PM_ (open 13 calendar days)
     - In this project...
         - You will build your own `ls` from scratch (but not implementing every single option available)
         - This will give you some experience traversing a Linux file system and retrieving file metadata along the way
@@ -32,17 +32,17 @@ Note: `C - Makefiles` and `C - Static variables, getline` are assigned concurren
 
 ## Peer Learning Days (PLDs)
 
-This course has 3 required PLDs (and 1 optional PLD)
-- Thursday, May 2 (optional PLD)
-- Thursday, May 9
-- Thursday, May 16
-- Thursday, May 23
+This course has 4 PLDs
+- Thursday, August 29
+- Thursday, September 5
+- Thursday, September 12
+- Thursday, September 19
 
 ## Project Pacing Guide
 
 ---
 
-### Week 1 (April 29 - May 3)
+### Week 1 (August 26 - August 30)
 
 <table>
     <tbody>
@@ -109,7 +109,7 @@ This course has 3 required PLDs (and 1 optional PLD)
 
 ---
 
-### Week 2 (May 6 - May 10)
+### Week 2 (September 6 - September 10)
 <table>
     <tbody>
         <tr>
@@ -164,7 +164,7 @@ This course has 3 required PLDs (and 1 optional PLD)
     - Begin `Task 0` (i.e., `ls` with no options)
 ---
 
-### Week 3 (May 13 - May 17)
+### Week 3 (September 13 - September 17)
 <table>
     <tbody>
         <tr>
@@ -210,7 +210,7 @@ This course has 3 required PLDs (and 1 optional PLD)
 
 ---
 
-### Week 4 (May 20 - May 24)
+### Week 4 (September 20 - September 24)
 <table>
     <tbody>
         <tr>
