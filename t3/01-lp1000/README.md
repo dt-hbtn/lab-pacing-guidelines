@@ -89,7 +89,7 @@ This course has 4 PLDs
     - Complete `Task 4` (last required task)
 
 #### Thursday
-- Optional PLD, 9-3
+- _PLD, 9-3_
 - `C - Makefiles`
     - Bring any remaining questions to the optional PLD (or slack instructor if you cannot attend)
 - `C - Static variables, getline`

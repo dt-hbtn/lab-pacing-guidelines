@@ -79,7 +79,7 @@ This course has 2 PLDs
     - Complete `Task 2`
 
 #### Thursday
-- Optional PLD, 9-3
+- _PLD, 9-3_
 - `C - Strace`
     - Complete `Task 3`
 - `Multithreading`
