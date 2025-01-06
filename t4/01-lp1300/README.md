@@ -1,4 +1,4 @@
-# LP1300: Low-Level Programming Applications (Fall 2024)
+# LP1300: Low-Level Programming Applications (Winter 2025)
 ## Course Overview
 __From the catalog...__
 "This course focuses on the creation and analysis of concurrent applications. Students will work toward solving real-live situations related to image processing and time-consuming computing."
@@ -8,15 +8,15 @@ In this course, we will continue developing skills with interprocess communicati
 
 ## Project Overview
 - `C - Strace`
-    - Opens _Monday, August 26_
-    - Due _Wednesday, September 4 @ 11:59PM_ (open 10 calendar days)
+    - Opens _Monday, January 6_
+    - Due _Wednesday, January 15 @ 11:59PM_ (open 10 calendar days)
     - In this project...
         - You will be building a rudimentary version of the `strace` utility.
         - You will use the `ptrace` library to trace a process's system calls and display some information about them
         - You will spawn the target application as a child process via `execve` and use functionality of the `ptrace` library that listens for signals that indicate the child process is making a system call.
 - `Multithreading`
-    - Opens _Monday, August 26_
-    - Due _Wednesday, September 4 @ 11:59PM_ (open 10 calendar days)
+    - Opens _Monday, January 6_
+    - Due _Wednesday, January 15 @ 11:59PM_ (open 10 calendar days)
     - In this project...
         - You will get some exposure to multithreading via the `pthreads` (POSIX threads) library
         - You will use synchronization primitives (e.g., mutex) to prevent concurrent threads from stepping on one-another's toes
@@ -26,14 +26,14 @@ Note: `C - Strace` and `Multithreading` are assigned concurrently!
 ## Peer Learning Days (PLDs)
 
 This course has 2 PLDs
-- Thursday, August 29
-- Thursday, September 5
+- Thursday, January 9
+- Thursday, January 16
 
 ## Project Pacing Guide
 
 ---
 
-### Week 1 (August 26 - August 30)
+### Week 1 (January 6 - January 10)
 
 <table>
     <tbody>
@@ -93,7 +93,7 @@ This course has 2 PLDs
 
 ---
 
-### Week 2 (September 2 - September 6)
+### Week 2 (January 13 - January 16)
 <table>
     <tbody>
         <tr>

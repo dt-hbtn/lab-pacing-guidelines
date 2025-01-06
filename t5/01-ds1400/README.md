@@ -1,4 +1,4 @@
-# DS1400: Search Algorithms (Fall 2024)
+# DS1400: Search Algorithms (Winter 2025)
 ## Course Overview
 __From the catalog...__
 "In this course, students will apply their knowledge of algorithms into search problems to solve problems or questions with the goal of providing a satisfactory solution."
@@ -8,11 +8,11 @@ In this course, you will practice building regexes for string pattern matching (
 
 ## Project Overview
 - `Regular expression`
-    - Opens _Monday, August 26_
-    - Due _Wednesday, September 4 @ 11:59PM_ (open 10 calendar days)
+    - Opens _Monday, January 6_
+    - Due _Wednesday, January 15 @ 11:59PM_ (open 10 calendar days)
 - `Search Algorithms Advanced`
-    - Opens _Monday, August 26_
-    - Due _Wednesday, September 4 @ 11:59PM_ (open 10 calendar days)
+    - Opens _Monday, January 6_
+    - Due _Wednesday, January 15 @ 11:59PM_ (open 10 calendar days)
 
 Note: `Regular expression` and `Search Algorithms Advanced` are assigned concurrently!
 
@@ -26,10 +26,10 @@ This course has 2 PLDs
 
 ---
 
-### Week 1 (August 26 - August 30)
+### Week 1 (January 6 - January 10)
 
-- Complete `Regular expression` by the first PLD on August 29.
+- Complete `Regular expression` by the first PLD.
 - Then on that same PLD we can cover any issues with the search algorithms
 
-### Week 2 (September 2 - September 6)
-- Complete `Search Algorithms Advanced` by the second PLD on September 5
+### Week 2 (January 13 - January 16)
+- Complete `Search Algorithms Advanced` by the second PLD
